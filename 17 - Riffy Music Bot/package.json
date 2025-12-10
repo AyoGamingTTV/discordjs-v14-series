@@ -1,0 +1,22 @@
+{
+  "name": "riffy-music-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 command handler example using Riffy for music playback.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "discord.js",
+    "riffy",
+    "lavalink"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "riffy": "^1.0.8"
+  }
+}
